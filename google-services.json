@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18956937504",
+    "project_id": "identra-care-vision",
+    "storage_bucket": "identra-care-vision.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18956937504:android:9315ced6b653742498cf45",
+        "android_client_info": {
+          "package_name": "com.identra.carevision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoWjkRIdbX_7DuRCX48NAlYMsaQ0vMts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
